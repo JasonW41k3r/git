@@ -1,6 +1,6 @@
 [![Build status](https://github.com/git/git/workflows/CI/badge.svg)](https://github.com/git/git/actions?query=branch%3Amaster+event%3Apush)
 
-Git - fast, scalable, distributed revision control system
+Git - fast, scalable, distributed revision control system invented by Linus Torvalds
 =========================================================
 
 Git is a fast, scalable, distributed revision control system with an
